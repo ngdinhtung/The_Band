@@ -1,0 +1,21 @@
+Những thành phần có trong website
+1. Header (đầu trang)
+2. Banner (hình ảnh - quảng cáo)
+3. Navigation (điều hướng)
+4. Breadcrumb
+5. Sidebar (menu trái or phải)
+6. Slider (thành phần trượt)
+7. Content (nội dung)
+8. Footer (chân trang)
+
+
+Thực hành The Band
+1. Phân tích - One Page
+    1. Header
+    2. Slider 
+    3. Content 
+        .About (Giới thiệu)
+        .Tour
+        .Contact
+        .Image
+    4. Footer
